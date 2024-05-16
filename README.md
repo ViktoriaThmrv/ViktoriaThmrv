@@ -2,9 +2,11 @@
 Welcome to my Data Analysis Projects Repository! This repository contains a collection of my data analysis projects where I explore various datasets, develop my SQL and Python skills, and gain insights into different domains.
 
 About Me
+
 I am passionate about data analysis and continually strive to improve my skills in SQL and Python. This repository serves as a platform for me to showcase my projects and share my learnings with others.
 
 Projects
+
 Here are some of the projects I am currently working on or have completed:
 
 
