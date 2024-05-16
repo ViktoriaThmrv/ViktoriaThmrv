@@ -1,4 +1,4 @@
-Data Analysis Projects Repository
+
 Welcome to my Data Analysis Projects Repository! This repository contains a collection of my data analysis projects where I explore various datasets, develop my SQL and Python skills, and gain insights into different domains.
 
 About Me
