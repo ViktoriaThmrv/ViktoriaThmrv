@@ -12,17 +12,14 @@ Here are some of the projects I am currently working on or have completed:
 
 Through these projects, I have honed my skills in the following areas:
 
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-SQL querying and data manipulation
-Python programming for data analysis and visualization
-Machine learning and predictive modeling
 Getting Started
+
 To explore my projects, simply navigate to the respective project directories in this repository. Each project folder contains a README file with detailed information about the project, including dataset sources, analysis techniques, and conclusions.
 
 Feel free to clone or fork this repository to explore the projects further, provide feedback, or collaborate on new ideas!
 
 Contact Me
+
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me:
 
 Email: vkt.tihomirova@gmail.com
