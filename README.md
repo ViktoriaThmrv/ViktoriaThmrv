@@ -1,47 +1,32 @@
-# Welcome to my Data Analysis Projects Repository!
+# Welcome to my Data Analysis portfolio!
 
 **About Me**
 
-I am passionate about data analysis and continually strive to improve my skills in SQL and Python. This repository serves as a platform for me to showcase my projects and share my learnings with others.
+I'm thrilled to share my journey into the fascinating world of data with you. My passion for data was ignited during my time working as a real-time analyst. As I delved deeper into the realm of data analytics, I found myself captivated by the endless possibilities and insights that could be gleaned from data.
+
+Driven by my curiosity and thirst for knowledge, I embarked on a journey of continuous learning. I enrolled in various courses, engaged in hands-on practice labs, and dedicated myself to developing projects. Through these experiences, I developed my skills in SQL and embarked on a mission to master Python.
+
+In my GitHub repositories, you'll find a collection of my SQL projects, each representing a milestone in my learning journey. As I continue to expand my skill set and delve into the realm of data, I look forward to sharing more projects with you. Stay tuned for updates.
 
 **Projects**
 
 Here are some of the projects I am currently working on or have completed:
 
+Mental Health Survey Analysis (in progress): Delve into the intricate patterns and correlations within a mental health survey dataset. Using PostgreSQL, I analyze respondents' demographics, employment status, and treatment-seeking behavior. From standardizing data to dissecting treatment-seeking behavior by gender, these queries showcase my proficiency in data cleaning, preparation, and exploratory analysis.
 
-**Skills Developed**
-
-Through the Order-Analysis project, I have developed and demonstrated several key skills in SQL and data analysis:
-
-1. **SQL Querying**: I honed my skills in writing complex SQL queries to retrieve, manipulate, and analyze data from relational databases.
-
-2. **Data Analysis**: By addressing various questions related to order management, product sales, customer behavior, and financial performance, I gained experience in conducting insightful data analysis to derive meaningful insights.
-
-3. **Data Visualization**: While not explicitly mentioned, my ability to interpret query results and communicate findings effectively indicates proficiency in data visualization and presentation.
-
-4. **Problem-Solving**: Each SQL query in the project tackles specific questions or challenges, showcasing my problem-solving abilities in designing and implementing solutions using SQL.
-
-5. **Query Optimization**: Crafting efficient SQL queries to extract the required information demonstrates my understanding of query optimization techniques, such as proper indexing, query structuring, and use of aggregate functions.
-
-6. **Subquery and Join Operations**: Through the use of subqueries and various types of joins (e.g., INNER JOIN, LEFT JOIN), I demonstrated competency in performing complex data retrievals and aggregations across multiple tables.
-
-7. **Conditional Logic**: My use of conditional logic constructs, such as the CASE statement, for calculating discounts and deriving customized results showcases my proficiency in applying conditional logic within SQL queries.
-
-8. **Documentation and Reporting**: The structured presentation of SQL queries, along with explanations and insights provided for each query, reflects my ability to document and report findings effectively, facilitating understanding and knowledge sharing.
-
-Additionally, the Order-Analysis project marks my first venture into hands-on data analysis projects, providing me with valuable practical experience and laying the foundation for further exploration and growth in this field.
+Order Analysis (completed): Exploration of sales and customer data, following a guided project of "Advanced SQL Retrieval Queries," I tackle questions ranging from calculating average prices to identifying top-selling products and analyzing discount utilization. 
 
 **Getting Started**
 
-To explore my projects, simply navigate to the respective project directories in this repository. Each project folder contains a README file with detailed information about the project, including dataset sources, analysis techniques, and conclusions.
+To explore my projects, simply navigate to the respective project directories in my repositories. Each project contains a README file with detailed information about the project, including dataset sources, analysis techniques, and conclusions.
 
-Feel free to clone or fork this repository to explore the projects further, provide feedback, or collaborate on new ideas!
+Feel free to clone or fork the repositories to explore the projects further, provide feedback, or collaborate on new ideas!
 
 **Contact Me**
 
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me:
 
-Email: vkt.tihomirova@gmail.com
+Email: vkt.thmrv@gmail.com
 LinkedIn: [https://www.linkedin.com/in/viktoria-t-petrova/](https://www.linkedin.com/in/viktoria-t-petrova/)
 
 Happy exploring!
